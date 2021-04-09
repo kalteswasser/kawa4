@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <path id="-arrow-down-a" d="M1.35619803,0.649111194 C1.1624075,0.452388452 0.845833942,0.45001142 0.649111197,0.643801945 C0.452388451,0.837592469 0.450011419,1.15416602 0.643801947,1.35088876 L3.59908588,4.35088863 C3.79289163,4.54762682 4.10949561,4.5499865 4.30621228,4.3561589 L7.35092819,1.35615903 C7.54762941,1.16234665 7.54997128,0.845772841 7.3561589,0.649071628 C7.16234652,0.452370414 6.8457727,0.450028549 6.64907148,0.643840925 L3.96055419,3.29287346 L1.35619803,0.649111194 Z"/>
+  </defs>
+  <g id="Icons" fill="none" fill-rule="evenodd">
+    <g id="Icons-/-arrow-down">
+      <g id="Group" transform="translate(14 15)">
+        <mask id="-arrow-down-b" fill="#fff">
+          <use xlink:href="#-arrow-down-a"/>
+        </mask>
+        <use id="Path-2" fill="#01363D" fill-rule="nonzero" xlink:href="#-arrow-down-a"/>
+        <g id="Colors-/-Greys-/-5.2-Grey" fill="#6D6D7A" mask="url(#-arrow-down-b)">
+          <rect id="Colors-/-5.2-Grey" width="8" height="5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
